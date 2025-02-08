@@ -37,7 +37,7 @@ const Experience = () => {
 			],
 		},
 		{
-			title: "Teleperforance",
+			title: "Teleperformance",
 			role: "Software Developer",
 			duration: "",
 			date: "OCT 2024 - NOW",
